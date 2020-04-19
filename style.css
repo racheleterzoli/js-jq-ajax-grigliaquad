@@ -1,0 +1,28 @@
+.giallo{
+  background-color: yellow;
+  text-align: center;
+  color:black;
+}
+.verde{
+  background-color: green;
+  text-align: center;
+  color:black;
+}
+.griglia{
+  height:900px;
+  width:900px;
+  margin:auto;
+}
+
+.quadrato{
+  height:150px;
+  border:1px solid black;
+  display:flex;
+  align-items: center;
+  color:black;
+}
+.quadrato p{
+  font-size:50px;
+  text-align: center;
+  width:100%;
+}
